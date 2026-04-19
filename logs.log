@@ -1,0 +1,1260 @@
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls"
+[INFO] exec_lines.c:574: Forked child 19271 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "evince"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 19271 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 19273 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "evince"
+[INFO] exec_lines.c:637: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=3
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 20061 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 20062 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 20064 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:637: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls"
+[INFO] exec_lines.c:574: Forked child 24553 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "evince"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 24553 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 24555 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "evince"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:637: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls"
+[INFO] exec_lines.c:574: Forked child 25571 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "evince"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 25571 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 25573 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "evince"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:637: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls"
+[INFO] exec_lines.c:574: Forked child 28148 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "evince"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 28148 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 28150 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "evince"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 21317 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls notest"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 21317 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 21319 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls notest"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 21831 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls notest"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 21831 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 21833 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls notest"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=3
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 7499 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 7500 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 7501 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 3
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 7500 terminó (procesos activos ahora: 2, hijos_terminados: 1)
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=1
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8247 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8247 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 8261 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8261 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 8273 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=1
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8457 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8457 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 8459 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8459 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 8493 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=1
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8515 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8515 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 8530 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8530 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 8533 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=2
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8788 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8789 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (2) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8789 terminó (procesos activos ahora: 1, hijos_terminados: 1)
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:574: Forked child 8806 for line 3 (procesosActivos=2)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 2
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=2
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8886 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 8887 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (2) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 8886 terminó (procesos activos ahora: 1, hijos_terminados: 1)
+[INFO] exec_lines.c:310: Child 8887 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 8890 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 128372 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=16
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=16
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 128456 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls test"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 128456 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 128461 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 128466 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls notest"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 128466 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 128473 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls notest"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test > salida"
+[INFO] exec_lines.c:88: Detectado >
+[INFO] exec_lines.c:574: Forked child 128740 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "cat salida"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:441: Línea 1 contiene redirección
+[INFO] exec_lines.c:334: Ejecutando redirección en línea 1: "ls test > salida"
+[INFO] exec_lines.c:427: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:310: Child 128740 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 128750 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "cat salida"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test >> salida"
+[INFO] exec_lines.c:84: Detectado >>
+[INFO] exec_lines.c:574: Forked child 128756 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:590: Procesando última línea 2 (sin \n): "cat salida"
+[INFO] exec_lines.c:441: Línea 1 contiene redirección
+[INFO] exec_lines.c:334: Ejecutando redirección en línea 1: "ls test >> salida"
+[INFO] exec_lines.c:427: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:604: Waited child 128756, procesosActivos=0
+[INFO] exec_lines.c:617: Forked child 128758 for last line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "cat salida"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test | wc -c"
+[INFO] exec_lines.c:95: Detectado |
+[INFO] exec_lines.c:574: Forked child 128966 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:438: Línea 1 contiene tubería
+[INFO] exec_lines.c:166: Ejecutando tubería en línea 1: "ls test | wc -c"
+[INFO] exec_lines.c:310: Child 128971 terminó (procesos activos ahora: -1, hijos_terminados: 1)
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=1
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129150 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 129150 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 129162 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:310: Child 129162 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 129204 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=2
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129216 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129220 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:559: Máximo de procesos (2) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 129216 terminó (procesos activos ahora: 1, hijos_terminados: 1)
+[INFO] exec_lines.c:310: Child 129220 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:574: Forked child 129264 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=3
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129284 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129285 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:552: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:574: Forked child 129288 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 3
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:310: Child 129285 terminó (procesos activos ahora: 2, hijos_terminados: 1)
+[INFO] exec_lines.c:310: Child 129288 terminó (procesos activos ahora: 1, hijos_terminados: 2)
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 2
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 136251 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 136258 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 136258 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 136260 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 136265 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 136265 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 136267 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137710 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137715 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 137715 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 137719 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137724 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 137724 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 137726 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137827 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137832 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 137832 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 137838 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 137843 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 137843 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 137845 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 138019 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 138028 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 138028 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 138030 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 138035 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 138035 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 138037 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls test"
+[INFO] exec_lines.c:574: Forked child 140192 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls test"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 140192 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 140198 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls test"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 141189 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 141189 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 141201 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:310: Child 141202 terminó (procesos activos ahora: -1, hijos_terminados: 2)
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 142103 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 142103 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 142114 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:469: Opción -b: bufSize=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:477: Opción -p: numProcs=0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:473: Opción -l: lineSize=128
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=128
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 142361 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 0
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 142366 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 142366 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 142368 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:638: Finalizando programa. Hijos terminados: 1
+[INFO] exec_lines.c:328: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:459: Programa iniciado
+[INFO] exec_lines.c:523: Buffers asignados: bufSize=16, lineSize=32
+[INFO] exec_lines.c:530: Comenzando a leer desde stdin
+[INFO] exec_lines.c:552: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:574: Forked child 142373 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:552: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:559: Máximo de procesos (1) alcanzado, esperando...
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:310: Child 142373 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:574: Forked child 142375 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:623: Esperando a que terminen los procesos hijos restantes: 1
+[INFO] exec_lines.c:113: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 153262 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 153262 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 153264 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 155317 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 155317 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 155329 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:508: Opción -b:  bufSize=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:512: Opción -l: lineSize=128
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=128
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=0)
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 155479 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 155484 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 155484 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 155486 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 155491 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 155491 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 155495 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:96: Detectado |
+[INFO] exec_lines.c:629: Forked child 155500 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:456: Línea 1 contiene tubería
+[INFO] exec_lines.c:166: Ejecutando tubería en línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:304: Tubería en línea 1 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:89: Detectado >
+[INFO] exec_lines.c:629: Forked child 155506 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:629: Forked child 155512 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:319: Child 155512 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 155514 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 2 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 2 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:646: Procesando última línea 1 (sin \n): "ls testfile"
+[INFO] exec_lines.c:682: Forked child 155520 for last line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "comando_fake_123"
+[INFO] exec_lines.c:629: Forked child 155525 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "comando_fake_123"
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=1
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 155533 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 155533 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 155576 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:319: Child 155576 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:629: Forked child 155614 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  2, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=3
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 155652 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 155655 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 155659 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=3)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:508: Opción -b:  bufSize=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:512: Opción -l: lineSize=128
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=128
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=0)
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 156056 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 156062 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 156062 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 156064 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 156069 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 156069 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 156075 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:96: Detectado |
+[INFO] exec_lines.c:629: Forked child 156080 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:456: Línea 1 contiene tubería
+[INFO] exec_lines.c:166: Ejecutando tubería en línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:304: Tubería en línea 1 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:89: Detectado >
+[INFO] exec_lines.c:629: Forked child 156086 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:629: Forked child 156092 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:319: Child 156092 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 156094 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 2 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 2 finalizada correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:646: Procesando última línea 1 (sin \n): "ls testfile"
+[INFO] exec_lines.c:682: Forked child 156100 for last line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "comando_fake_123"
+[INFO] exec_lines.c:629: Forked child 156105 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "comando_fake_123"
+[INFO] exec_lines.c:319: Child 156106 terminó (procesos activos ahora: -1, hijos_terminados: 1)
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  0, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=1
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 156113 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 156113 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 156156 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:319: Child 156156 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:629: Forked child 156190 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  2, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=3
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 156224 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 156226 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 156228 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=3)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:319: Child 156228 terminó (procesos activos ahora: 2, hijos_terminados: 1)
+[INFO] exec_lines.c:319: Child 156226 terminó (procesos activos ahora: 1, hijos_terminados: 2)
+[INFO] exec_lines.c:699: Finalizando programa.  Hijos terminados:  2, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "comando_fake_123"
+[INFO] exec_lines.c:629: Forked child 162493 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "comando_fake_123"
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:508: Opción -b:  bufSize=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:512: Opción -l: lineSize=128
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=128
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=0)
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 163523 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 163528 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 163528 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 163530 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile"
+[INFO] exec_lines.c:629: Forked child 163535 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls noexiste"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 163535 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 163537 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "ls noexiste"
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  1, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:96: Detectado |
+[INFO] exec_lines.c:629: Forked child 163542 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:456: Línea 1 contiene tubería
+[INFO] exec_lines.c:166: Ejecutando tubería en línea 1: "ls testfile | wc -c"
+[INFO] exec_lines.c:304: Tubería en línea 1 finalizada correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:89: Detectado >
+[INFO] exec_lines.c:629: Forked child 163551 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile > out.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:629: Forked child 163557 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:85: Detectado >>
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:459: Línea 1 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 1: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 1 finalizada correctamente
+[INFO] exec_lines.c:319: Child 163557 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 163560 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:459: Línea 2 contiene redirección
+[INFO] exec_lines.c:349: Ejecutando redirección en línea 2: "ls testfile >> out2.txt"
+[INFO] exec_lines.c:445: Redirección en línea 2 finalizada correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  1, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:646: Procesando última línea 1 (sin \n): "ls testfile"
+[INFO] exec_lines.c:683: Forked child 163566 for last line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "ls testfile"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "comando_fake_123"
+[INFO] exec_lines.c:629: Forked child 163571 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "comando_fake_123"
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 1
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=1
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 163579 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:319: Child 163579 terminó (procesos activos ahora: 0, hijos_terminados: 1)
+[INFO] exec_lines.c:629: Forked child 163615 for line 2 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:605: Máximo de procesos (1) alcanzado, esperando.. .
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:319: Child 163615 terminó (procesos activos ahora: 0, hijos_terminados: 2)
+[INFO] exec_lines.c:629: Forked child 163661 for line 3 (procesosActivos=1)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=1)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  2, Errores: 0
+[INFO] exec_lines.c:343: Instalado manejador SIGCHLD
+[INFO] exec_lines.c:499: Programa iniciado
+[INFO] exec_lines.c:516: Opción -p:  numProcs=3
+[INFO] exec_lines.c:560: Buffers asignados:  bufSize=16, lineSize=32
+[INFO] exec_lines.c:566: Comenzando a leer desde stdin
+[INFO] exec_lines.c:591: Procesando línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 163686 for line 1 (procesosActivos=1)
+[INFO] exec_lines.c:591: Procesando línea 2: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 1: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 163689 for line 2 (procesosActivos=2)
+[INFO] exec_lines.c:591: Procesando línea 3: "sleep 1"
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 2: "sleep 1"
+[INFO] exec_lines.c:629: Forked child 163693 for line 3 (procesosActivos=3)
+[INFO] exec_lines.c:468: Esperando a todos los hijos restantes (procesosActivos=3)
+[INFO] exec_lines.c:114: Ejecutando comando simple en línea 3: "sleep 1"
+[INFO] exec_lines.c:158: Comando simple en línea 1 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 2 finalizado correctamente
+[INFO] exec_lines.c:158: Comando simple en línea 3 finalizado correctamente
+[INFO] exec_lines.c:700: Finalizando programa.  Hijos terminados:  0, Errores: 0
